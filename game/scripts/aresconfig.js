@@ -1,1 +1,0 @@
-var aresconfig = {"mush_port":1983,"web_portal_port":80,"websocket_port":1984,"version":"0.27","host":"midnight.aresmush.com","api_port":1985,"api_key":"8d922b71-88e4-4707-ac35-093e4e667161","styles_path":"/home/ares/aresmush/game/styles","uploads_path":"/home/ares/aresmush/game/uploads","game_name":"Midnight MUSH","use_api_proxy":true};
