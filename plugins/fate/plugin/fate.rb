@@ -56,7 +56,7 @@ module AresMUSH
         when nil     
           return PowersCmd
       end
-        
+     end   
     end
 
     def self.get_event_handler(event_name)
