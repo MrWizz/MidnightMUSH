@@ -2,21 +2,21 @@
 fate:
     powers:
         - 
-            name: Sprinter
-            description: "Double free movement."
+            name: Inhuman Strength
+            description: "Blergh"
         - 
-            name: Hardcore Parkour
-            description: "+2 to overcome with Athletics in places you can parkour."
+            name: Supernatural Strength
+            description: "Hurgh"
         - 
-            name: Dazing Counter
-            description: "Succeed with style on a defend action lets you Daze the opponent with an invoke."
+            name: Mythic Strength
+            description: "Gurgh"
         - 
-            name: Always A Way Out
-            description: "+2 to Burglary to escape."
+            name: Inhuman Speed
+            description: "Furgh"
         - 
-            name: Security Specialist
-            description: "Provide active opposition when someone's overcoming your security measures."
+            name: Supernatural Speed
+            description: "Buh"
         - 
-            name: Talk The Talk
-            description: "Use Burglary instead of Contacts when talking with thieves."
+            name: Mythic Speed
+            description: "Wat"
 
