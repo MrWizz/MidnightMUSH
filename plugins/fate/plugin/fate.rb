@@ -53,7 +53,6 @@ module AresMUSH
         end
       when "power"
           return PowersCmd
-        end
       end
         
     end
