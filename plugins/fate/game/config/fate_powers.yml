@@ -1,6 +1,6 @@
 ---
 fate:
-    stunts:
+    powers:
         - 
             name: Sprinter
             description: "Double free movement."
