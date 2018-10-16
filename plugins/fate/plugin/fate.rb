@@ -52,10 +52,6 @@ module AresMUSH
           return SkillsCmd
         end
       when "power"
-        case cmd.switch
-        when "set"
-          return PowerSetCmd
-        when nil
           return PowersCmd
         end
       end
