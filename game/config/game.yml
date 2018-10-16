@@ -1,0 +1,10 @@
+---
+game: !ruby/hash:Sinatra::IndifferentHash
+  name: Midnight MUSH
+  category: Supernatural
+  description: Original supernatural horror using FATE Core, set in California in
+    the 80's.
+  website: http://midnight.aresmush.com
+  public_game: true
+  game_status: In Development
+  status: In Development

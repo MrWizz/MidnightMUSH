@@ -1,0 +1,10 @@
+server:
+    hostname: midnight.aresmush.com
+
+    port: 1983
+    
+    websocket_port: 1984
+
+    web_portal_port: 80
+    
+    engine_api_port: 1985
